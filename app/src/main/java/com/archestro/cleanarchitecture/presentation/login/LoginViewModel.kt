@@ -1,4 +1,4 @@
-package com.archestro.cleanarchitecture.presentation
+package com.archestro.cleanarchitecture.presentation.login
 
 import com.archestro.cleanarchitecture.base.BaseViewModel
 import com.archestro.cleanarchitecture.base.Outcome

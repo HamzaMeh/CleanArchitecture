@@ -1,8 +1,9 @@
-package com.archestro.cleanarchitecture.domain.repository.login
+package com.archestro.cleanarchitecture.data.repository.login
 
 import com.archestro.cleanarchitecture.data.remote.apiService.LoginService
 import com.archestro.cleanarchitecture.data.remote.model.login.LoginRequestModel
 import com.archestro.cleanarchitecture.data.remote.model.login.LoginResponseModel
+import com.archestro.cleanarchitecture.domain.repository.login.LoginRepository
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
